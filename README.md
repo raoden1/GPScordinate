@@ -13,7 +13,7 @@ Requirements: Python 3+, pillow
 
 ```python gpslook.py <path>```
 
-<path> to the folder with images.
+path - where folder with images is.
 
 
 ## Contribution:
