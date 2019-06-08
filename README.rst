@@ -1,19 +1,21 @@
+# GPScordinate
+
 Script to extracting GPS cordinate from images with extension .jpg
 Requirements: Python 3+, pillow
 
-TODO:
+## TODO:
 - add '.png' handling
 - pretty printing
 - saving to database ( security required )
 - 
 
-To run script:
+## Usage
 
-python gpslook.py <path>
+```python gpslook.py <path>```
 
 <path> to the folder with images.
 
 
-Contribution:
+## Contribution:
 
 Feel free to contribute.
