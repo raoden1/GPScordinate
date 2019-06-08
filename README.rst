@@ -11,7 +11,7 @@ Requirements: Python 3+, pillow
 
 ## Usage
 
-```python gpslook.py <path>```
+``python gpslook.py <path>``
 
 <path> to the folder with images.
 
